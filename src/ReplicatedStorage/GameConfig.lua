@@ -111,4 +111,4 @@ GameConfig.Encyclopedia = {
 	},
 }
 
-return GameConfig
+return ZooLocations
